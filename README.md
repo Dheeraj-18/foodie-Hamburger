@@ -4,16 +4,22 @@ A responsive web design project built using **HTML**, **CSS**, and **JavaScript*
 
 ## 🚀 Features
 
-- Mobile-first responsive layout
-- Hamburger menu with open/close functionality
-- Smooth scroll-to-top button
+- Mobile-first responsive layout  
+- Hamburger menu with open/close functionality  
+- Smooth scroll-to-top button  
 - Clean, modern burger-themed UI
 
-##  Tech Stack
+---
 
-- HTML5
-- CSS3 (Flexbox + Media Queries)
-- Vanilla JavaScript
+## 🌐 Live Demo
+
+Check it out here 👉 [https://hambrgr.netlify.app/](https://hambrgr.netlify.app/)
+
+---
+
+## 🛠 Tech Stack
+
+- HTML5  
+- CSS3 (Flexbox + Media Queries)  
+- Vanilla JavaScript  
 - Google Fonts (Poppins)
-
-
